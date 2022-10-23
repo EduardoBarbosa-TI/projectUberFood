@@ -1,4 +1,4 @@
-module github.com/codeedu/imersaofsfc2-simulator
+module github.com/EduardoBarbosa-TI/projectUberFood
 
 go 1.16
 

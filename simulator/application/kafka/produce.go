@@ -2,8 +2,8 @@ package kafka
 
 import (
 	"encoding/json"
-	route2 "github.com/codeedu/imersaofsfc2-simulator/application/route"
-	"github.com/codeedu/imersaofsfc2-simulator/infra/kafka"
+	route2 "github.com/EduardoBarbosa-TI/projectUberFood/application/route"
+	"github.com/EduardoBarbosa-TI/projectUberFood/infra/kafka"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 	"log"
 	"os"
